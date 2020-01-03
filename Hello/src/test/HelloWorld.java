@@ -5,6 +5,7 @@ public class HelloWorld {
 
 		int wc=11;
 		System.out.println("你好，美女");
+		int q=36;
 
 	}
 }
